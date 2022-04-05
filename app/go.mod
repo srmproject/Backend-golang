@@ -1,4 +1,4 @@
-module jcpbackend
+module jcp-backend
 
 go 1.17
 
