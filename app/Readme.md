@@ -5,3 +5,7 @@
 ```sh
 go run .
 ```
+
+# 예제 API
+* http://localhost:1323/project/create
+* http://localhost:1323/healthy
